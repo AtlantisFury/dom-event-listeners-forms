@@ -1,0 +1,22 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #bebebe;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.nav-links {
+  text-decoration: none;
+}
+
+#linked-in::before {
+  content: "x";
+}
